@@ -83,3 +83,5 @@ $ curl -H "username:jaimemin" -H "otpCode:123456" http://localhost:8080/login
 ```
 $ curl -H "Authorization:eyJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6ImphaW1lbWluIn0.I4ePHpB6CsPx-Z2WxG-qc8VNoiGrRDQCL25-yOjx69I" http://localhost:8080/api/v1/test
 ```
+
+참고: 패스트 캠퍼스 Netplix 구독형 멤버십 프로젝트로 배우는 Spring Security
