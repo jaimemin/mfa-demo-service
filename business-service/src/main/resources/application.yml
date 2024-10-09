@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: business-service
+
+server:
+  port: 8080
+
+base-url:
+  auth-service: http://localhost:8081/api/v1
+
+jwt:
+  signing-key: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
